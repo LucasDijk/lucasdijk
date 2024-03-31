@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasdijk
 - 👀 I’m interested in anyhing computer related
-- 🌱 I’m currently learning different technologies
+- 🌱 I specialize in .NET (ASP.NET)
 - 📫 How to reach me ...
 
 <!---
